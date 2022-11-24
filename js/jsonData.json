@@ -1,0 +1,16 @@
+{
+  "some_var": [
+    {
+      "axis": "x",
+      "point": 100
+    },
+    {
+      "axis": "y",
+      "point": 120
+    },
+    {
+      "axis": "z",
+      "point": 50
+    }
+  ]
+}
